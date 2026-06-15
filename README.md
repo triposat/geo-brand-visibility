@@ -1,6 +1,6 @@
 # Brand-visibility monitor
 
-Runs a prompt against ChatGPT, Grok, and Perplexity and flags whether your brand is mentioned in each answer. This is the runnable version of **Use case 2** from the [brightdata-scrape Kiro Power](https://github.com/brightdata/kiro-powers) guide.
+Runs a prompt against ChatGPT, Grok, and Perplexity and detects whether your brand is mentioned in each answer. This is the runnable version of **Use case 2** from the [brightdata-scrape Kiro Power](https://github.com/brightdata/kiro-powers) guide.
 
 It queries each engine through Bright Data's [Web MCP server](https://brightdata.com/ai/mcp-server) and renders the three answers side by side.
 
